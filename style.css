@@ -1,0 +1,98 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+}
+.div2 {
+     background-color: hsl(213, 19%, 18%); 
+    width: 300px;
+    height: 280px;  
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+  }
+.thanks {
+     background-color: hsl(213, 19%, 18%); 
+    width: 300px;
+    height: 280px;  
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+  }
+h3{
+    color: hsl(0, 0%, 100%);
+}
+p{  
+    font-size: small;
+    color:hsl(217, 12%, 63%);
+}
+.child{
+    width: 300px;
+    height: auto;
+    padding: 0px;
+    margin: 0px;
+}
+#star img{
+    background-color: hsl(213, 19%, 28%);
+    border-radius: 50%;
+    padding: 11px;
+    
+}
+#rating{
+    display: flex;
+    justify-content: space-around;
+}
+.rate{
+    color: hsl(217, 12%, 63%);
+    text-align: center;
+    font-size: medium;
+    background-color: hsl(213, 19%, 28%);
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 6%;
+}
+.rate:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+}
+.rate-active{
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin-top: 20px;
+    height: 55px;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: justify;
+    color: hsl(25, 97%, 53%);
+    font-weight: bold;
+}
+
+.up{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+
+}
+.result{
+    color: hsl(25, 97%, 53%);
+    border-radius: 40px;
+    background-color: hsl(213, 19%, 28%);
+    width: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+footer{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 3px;
+    color: white;
+}
+
